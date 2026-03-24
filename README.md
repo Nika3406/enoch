@@ -17,9 +17,9 @@ reason, retrieve, and compute — walking with its user toward understanding.
 GPT-2 style transformer, built in PyTorch, hardware-agnostic (CUDA / MPS / CPU)
 
 ## Status
-[ ] Corpus ingestion
-[ ] Tokenizer
-[ ] Model architecture
-[ ] Training loop
-[ ] Inference + tool calling
-[ ] RAG integration
+- [ ] Corpus ingestion
+- [ ] Tokenizer
+- [ ] Model architecture
+- [ ] Training loop
+- [ ] Inference + tool calling
+- [ ] RAG integration
